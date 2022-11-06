@@ -5,4 +5,6 @@ To run the program, just run de html file index.html and it will run the applica
 
 The list of instructions are available in the Instructions.txt file. 
 
-This code was created my Julien Brémont and Jules Arbelot. 
+This code was created my Julien Brémont and Jules Arbelot.
+
+A demo video is available here: https://youtu.be/fqKq96SGwRI
